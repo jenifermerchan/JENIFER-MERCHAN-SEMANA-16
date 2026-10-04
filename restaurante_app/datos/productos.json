@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clasica 1",
+        "precio": 5.5,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Papas Fritas",
+        "precio": 2.5,
+        "stock": 35
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Gaseosa 500ml",
+        "precio": 1.5,
+        "stock": 50
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Gaseosa 1000ml",
+        "precio": 2.0,
+        "stock": 45
+    }
+]
